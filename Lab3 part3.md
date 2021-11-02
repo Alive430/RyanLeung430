@@ -1,6 +1,6 @@
 ## Lab3 part1 (The limits of trust-free systems: A literature review on blockchain technology and trust in the sharing economy)
 1.
-2.Trust,
+2. Trust,blockchain,economy
 3.
 4.
 5.
@@ -8,7 +8,7 @@
 
 ## Lab1 Q6
 | Program  |Software manufacturer | Software version| Software type|
-| ------------- | ------------- | -----|-------|
+| -------------| -------------|-------------| -------------|
 | Windows 10  | Microsoft | 120.2212.3920.0| Operating system|
 | Opera GX | Google  | 79.0.4143.72| Browser|
 | Microsoft Edge  | Microsoft  | 79.0.4143.72| Browser|
@@ -19,7 +19,7 @@
 
 ## Lab1 Q7
 | Apps | Software manufacturer | Software version | Software type|
-| ------------- | ------------- | -----|-------|
+| -------------| -------------| -------------| -------------|
 | Andorid | Google | 10 | OS|
 | signal | Google | 5.23.8| Social media|
 | WhatsApp | Facebook | 2.21.18.17| Social network|
@@ -28,4 +28,3 @@
 | Google | drive| Google|2.21.330.4.90| Cloud-based storage services|
 | Email| MS365| latest| LMS|
 | Google| Map|Google| 10.86.1| Navigation|
-
