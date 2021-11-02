@@ -1,6 +1,6 @@
 ## Lab3 part1 (The limits of trust-free systems: A literature review on blockchain technology and trust in the sharing economy)
 1.
-2. Trust,blockchain,economy
+2. Trust, economy, blockchains
 3.
 4.
 5.
